@@ -10,8 +10,8 @@ NPCでのアイテム売却: プレイヤーは取得したアイテムを売却
 このリポジトリをクローンまたはダウンロードします。
 
 
-git clone https://github.com/yourusername/lumberjack-job.git
-lumberjack-jobフォルダを[qb]ディレクトリ内に配置します。
+[git clone https://github.com/yourusername/lumberjack-job.git]
+resourceフォルダに入れてください
 
 依存関係:
 
