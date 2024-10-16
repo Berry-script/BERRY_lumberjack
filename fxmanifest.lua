@@ -2,9 +2,8 @@ fx_version 'cerulean'
 game 'gta5'
 
 name "lumberjack"
-description "a"
 author "Berry"
-version "0.1"
+version "1.0.0"
 
 lua54 'yes'
 use_experimental_fxv2_oal 'yes'
