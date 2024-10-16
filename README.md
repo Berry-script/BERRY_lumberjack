@@ -49,5 +49,6 @@ Config.luaのカスタマイズ
 必要条件
 QBCore Framework: https://github.com/qbcore-framework
 ox_target: https://github.com/overextended/ox_target
+-ox_libも必要です
 ライセンス
 このプロジェクトはMITライセンスのもとで提供されています。
